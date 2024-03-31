@@ -1,7 +1,7 @@
 from math import pi
 
 # Densité de l'eau (kg/m³)
-densite_eau = 1000  
+densite_eau = 997  
 
 # Diamètres représentatifs des gouttes en mètres (petite, moyenne, grande)
 diametres_gouttes = [0.001, 0.002, 0.004]  # Converti en mètres
